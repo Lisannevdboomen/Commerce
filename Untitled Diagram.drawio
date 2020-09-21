@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T14:42:07.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="HIVqtm1DdYKtm3qPi5iz" version="13.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-21T14:42:32.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="dN8VT0F-vlrzRkDWUSIz" version="13.7.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Views">
     <mxGraphModel dx="1456" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,10 +105,10 @@
         <mxCell id="HeR5rEX8PmQ2zLc5UFb7-44" value="Foreign Key (ManyToOne)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HeR5rEX8PmQ2zLc5UFb7-23">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HeR5rEX8PmQ2zLc5UFb7-24" value=".." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HeR5rEX8PmQ2zLc5UFb7-23">
+        <mxCell id="HeR5rEX8PmQ2zLc5UFb7-24" value="Title" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HeR5rEX8PmQ2zLc5UFb7-23">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HeR5rEX8PmQ2zLc5UFb7-25" value=".." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="HeR5rEX8PmQ2zLc5UFb7-23">
+        <mxCell id="HeR5rEX8PmQ2zLc5UFb7-25" value="Text" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="HeR5rEX8PmQ2zLc5UFb7-23">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HeR5rEX8PmQ2zLc5UFb7-26" value=".." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="HeR5rEX8PmQ2zLc5UFb7-23">
